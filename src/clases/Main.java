@@ -7,6 +7,7 @@ import java.lang.Math;
 /**
  *
  * @author Copy&&Paste
+ * 
  */
 public class Main {
     
